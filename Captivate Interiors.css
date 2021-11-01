@@ -1,0 +1,21 @@
+
+body {
+    background-image: url("https://img2.goodfon.com/original/1920x1080/2/99/tekstury-tekstura-texture-fon.jpg");  
+    background-attachment: fixed;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    color:black;
+    letter-spacing: 2px;  
+}
+.jumbotron{
+    color: black;
+    font-size: 90px;;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 0px;
+    background-color: transparent;
+}
+nav{ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+    text-align: center;
+}
